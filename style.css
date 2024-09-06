@@ -1,3 +1,39 @@
+body {
+    background-image: url("rolam\ hatterkep.jpg");
+    background-position: center;
+    width: 100%;
+    
+}
+
+.container{
+    background-color: lightgray;  
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px black;
+}
+
 .container h1 {
   text-align: center;
+  
 }
+table {
+    width: 100%;
+    border: solid 3px black;
+}
+
+
+td {
+    border: solid 2px black;
+    text-align: center;
+}
+
+th {
+text-align: center;
+}
+
+#navbar1 {
+background-color: bisque;
+}
+
